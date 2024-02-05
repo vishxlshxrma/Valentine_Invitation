@@ -6,7 +6,6 @@ const phrases = [
   "Are you sure?",
   "Like Realllllly sure?",
   "pleaseeeeee maanja 🥺",
-  "I am gonna cry 😔",
   "You are gonna break my heart 💔",
   "Katti hojauga 😡😤",
   "Kitni besharam hai tu? 😡😡😡😡😡",
