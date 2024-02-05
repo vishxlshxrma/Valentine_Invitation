@@ -2,8 +2,6 @@
 
 Welcome to my Valentine Invitation website! 🌹❤️
 
-[Live Demo][(https://vapp-mu.vercel.app/) | [GitHub Repository](https://github.com/vishxlshxrma/Valentine_Invitation)
-
 ## Overview
 
 This website is a special invitation for Valentine's Day, designed to spread love and joy. You can [visit the live demo](https://vapp-mu.vercel.app/) to experience the invitation.
